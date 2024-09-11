@@ -14,9 +14,9 @@
 
     head
 
-     grep
+    grep
 
-     find
+    find
 
 # GIT COMMANDS
 
@@ -47,3 +47,11 @@
 
 
     source: https://www.markdownguide.org/basic-syntax/#code
+
+# PULL REQUEST
+    Jag tryckte runt och lärde mig hur man gör en pull-request:
+    https://github.com/phirren/FOS24/pull/1
+
+![alt text](findingnemo.jpeg)
+
+    source: https://www.markdownguide.org/basic-syntax/#images-1
