@@ -8,7 +8,7 @@
     -rm
 
     >
-    
+
     >>
 
     echo
@@ -47,7 +47,6 @@
 
 # MARKDOWN CODE BLOCKS
     To create code blocks, indent every line of the block by at least four spaces or one tab.
-
 
     source: https://www.markdownguide.org/basic-syntax/#code
 
