@@ -1,4 +1,4 @@
-# TERMINAL
+# TERMINAL COMMANDS FROM LECTURES
     -mkdir
 
     -cd
@@ -13,15 +13,18 @@
 
     echo
 
-    nano
 
-    head
+## NEW TERMINAL COMMANDS I'VE LEARNED ON MY OWN
 
     grep
 
     find
 
-# GIT COMMANDS
+    nano
+
+    head
+
+# GIT COMMANDS FROM LECTURES
 
     git add .
 
@@ -36,6 +39,14 @@
     git fetch
 
     git branch
+
+    git clone
+
+## GIT COMMANDS I'VE LEARNED ON MY OWN
+
+    git checkout
+
+    git stash
 
 # GIT CONFIG
 
