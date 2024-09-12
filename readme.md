@@ -6,9 +6,12 @@
     -ls
 
     -rm
-     >
-     >>
-     echo
+
+    >
+    
+    >>
+
+    echo
 
     nano
 
